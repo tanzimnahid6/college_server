@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "name": "Green Valley College",
+      "image": "/images/green_valley_college.jpg",
+      "rating": 4.5,
+      "admissionDates": "August 1 - September 30",
+      "events": ["Science Fair", "Annual Sports Meet", "Cultural Fest"],
+      "researchHistory": [
+        { "title": "Environmental Studies on Green Habitats", "year": 2022 },
+        { "title": "Renewable Energy Applications", "year": 2021 }
+      ],
+      "sports": ["Basketball", "Football", "Swimming"]
+    },
+    {
+      "id": 2,
+      "name": "Tech Innovators Institute",
+      "image": "/images/tech_innovators_institute.jpg",
+      "rating": 4.7,
+      "admissionDates": "July 15 - September 15",
+      "events": ["Tech Expo", "Hackathon", "Robotics Workshop"],
+      "researchHistory": [
+        { "title": "AI in Modern Healthcare", "year": 2023 },
+        { "title": "Blockchain in Fintech", "year": 2020 }
+      ],
+      "sports": ["Table Tennis", "Badminton", "Coding Competitions"]
+    },
+    {
+      "id": 3,
+      "name": "Arts and Design College",
+      "image": "/images/arts_design_college.jpg",
+      "rating": 4.6,
+      "admissionDates": "March 1 - April 30",
+      "events": ["Art Exhibition", "Design Contest", "Cultural Festival"],
+      "researchHistory": [
+        { "title": "Modern Art Techniques", "year": 2019 },
+        { "title": "Sustainable Fashion", "year": 2021 }
+      ],
+      "sports": ["Badminton", "Yoga", "Chess"]
+    },
+    {
+      "id": 4,
+      "name": "Business School of Excellence",
+      "image": "/images/business_school.jpg",
+      "rating": 4.8,
+      "admissionDates": "January 5 - March 5",
+      "events": ["Entrepreneurship Summit", "Marketing Workshop", "Finance Expo"],
+      "researchHistory": [
+        { "title": "Consumer Behavior Studies", "year": 2020 },
+        { "title": "Digital Marketing Strategies", "year": 2022 }
+      ],
+      "sports": ["Golf", "Tennis", "Swimming"]
+    },
+    {
+      "id": 5,
+      "name": "Medical Sciences University",
+      "image": "/images/medical_sciences_university.jpg",
+      "rating": 4.9,
+      "admissionDates": "June 10 - July 31",
+      "events": ["Medical Symposium", "Health Awareness Camp", "Research Conference"],
+      "researchHistory": [
+        { "title": "Genetic Disorders and Treatments", "year": 2021 },
+        { "title": "COVID-19 Vaccine Development", "year": 2020 }
+      ],
+      "sports": ["Running", "Volleyball", "Basketball"]
+    },
+    {
+      "id": 6,
+      "name": "Engineering and Technology College",
+      "image": "/images/engineering_college.jpg",
+      "rating": 4.6,
+      "admissionDates": "July 1 - August 20",
+      "events": ["Tech Symposium", "Machine Learning Workshop", "Innovation Fair"],
+      "researchHistory": [
+        { "title": "Machine Learning Algorithms", "year": 2023 },
+        { "title": "Robotic Process Automation", "year": 2022 }
+      ],
+      "sports": ["Cricket", "Football", "Robotics Competitions"]
+    },
+    {
+      "id": 7,
+      "name": "Law and Justice Institute",
+      "image": "/images/law_justice_institute.jpg",
+      "rating": 4.4,
+      "admissionDates": "April 1 - May 30",
+      "events": ["Moot Court Competition", "Legal Research Conference", "Debate Championship"],
+      "researchHistory": [
+        { "title": "Human Rights Studies", "year": 2022 },
+        { "title": "Comparative Law Analysis", "year": 2021 }
+      ],
+      "sports": ["Debate", "Moot Court", "Table Tennis"]
+    },
+    {
+      "id": 8,
+      "name": "International Culinary Academy",
+      "image": "/images/culinary_academy.jpg",
+      "rating": 4.3,
+      "admissionDates": "February 1 - April 30",
+      "events": ["Food Festival", "Cooking Contest", "Culinary Workshop"],
+      "researchHistory": [
+        { "title": "Global Culinary Trends", "year": 2020 },
+        { "title": "Sustainable Food Practices", "year": 2022 }
+      ],
+      "sports": ["Cooking Competitions", "Basketball", "Badminton"]
+    },
+    {
+      "id": 9,
+      "name": "Liberal Arts and Humanities College",
+      "image": "/images/liberal_arts_college.jpg",
+      "rating": 4.7,
+      "admissionDates": "May 1 - June 30",
+      "events": ["Literature Conference", "Art and Music Festival", "Public Speaking Workshop"],
+      "researchHistory": [
+        { "title": "Sociology of Art", "year": 2023 },
+        { "title": "Global Ethics", "year": 2021 }
+      ],
+      "sports": ["Soccer", "Chess", "Volleyball"]
+    },
+    {
+      "id": 10,
+      "name": "Institute of Environmental Studies",
+      "image": "/images/environmental_studies.jpg",
+      "rating": 4.5,
+      "admissionDates": "September 1 - October 30",
+      "events": ["Environmental Awareness Program", "Wildlife Conservation Workshop", "Climate Change Conference"],
+      "researchHistory": [
+        { "title": "Climate Change Impact", "year": 2022 },
+        { "title": "Renewable Energy Sources", "year": 2020 }
+      ],
+      "sports": ["Eco-Marathon", "Nature Trekking", "Photography Contest"]
+    }
+  ]
+  
