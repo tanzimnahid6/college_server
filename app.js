@@ -17,7 +17,8 @@ app.use(cors());
 // Optionally, customize CORS settings
 app.use(cors({
   origin: 'http://localhost:5173', // Allow only specific origin
-  methods: ['GET', 'POST', 'PUT', 'DELETE'], // Restrict to specific HTTP methods if needed
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type', 'Authorization'] // Restrict to specific HTTP methods if needed
 }));
 
 app.use(express.json());
