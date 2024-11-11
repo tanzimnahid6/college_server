@@ -15,10 +15,10 @@ const app = express();
 app.use(cors());
 
 // Optionally, customize CORS settings
-// app.use(cors({
-//   origin: 'https://your-frontend-domain.com', // Allow only specific origin
-//   methods: ['GET', 'POST', 'PUT', 'DELETE'], // Restrict to specific HTTP methods if needed
-// }));
+app.use(cors({
+  origin: 'http://localhost:5173', // Allow only specific origin
+  methods: ['GET', 'POST', 'PUT', 'DELETE'], // Restrict to specific HTTP methods if needed
+}));
 
 app.use(express.json());
 
